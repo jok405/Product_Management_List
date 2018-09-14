@@ -1,52 +1,52 @@
 [
   {
     "productId": 1,
-    "productName": "Leaf Rake",
+    "productName": "Photon Laser Gun",
     "productCode": "GDN-0011",
-    "releaseDate": "March 19, 2016",
-    "description": "Leaf rake with 48-inch wooden handle.",
-    "price": 19.95,
+    "releaseDate": "March 19, 2015",
+    "description": "Lightweight photon laser with adjustable range.",
+    "price": 199.95,
     "starRating": 3.2,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    "imageUrl": "https://openclipart.org/download/211400/lasergun.svg"
   },
   {
     "productId": 2,
-    "productName": "Garden Cart",
+    "productName": "Radio Flyer Wagon",
     "productCode": "GDN-0023",
-    "releaseDate": "March 18, 2016",
-    "description": "15 gallon capacity rolling garden cart",
-    "price": 32.99,
+    "releaseDate": "March 18, 2014",
+    "description": "Kid and Cat capacity rolling garden cart.",
+    "price": 99.99,
     "starRating": 4.2,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    "imageUrl": "https://openclipart.org/download/271551/Red_Wagon.svg"
   },
   {
     "productId": 5,
-    "productName": "Hammer",
+    "productName": "Time Machine",
     "productCode": "TBX-0048",
     "releaseDate": "May 21, 2016",
-    "description": "Curved claw steel hammer",
-    "price": 8.9,
+    "description": "Time warp travel made easy with a simple lever pull.",
+    "price": 8000.99,
     "starRating": 4.8,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    "imageUrl": "https://openclipart.org/download/276729/timemachine.svg"
   },
   {
     "productId": 8,
-    "productName": "Saw",
+    "productName": "Space Ship",
     "productCode": "TBX-0022",
-    "releaseDate": "May 15, 2016",
-    "description": "15-inch steel blade hand saw",
-    "price": 11.55,
+    "releaseDate": "May 15, 2017",
+    "description": "Single pilot fighter jet capable of space travel and landings on foreign planets.",
+    "price": 100000.55,
     "starRating": 3.7,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    "imageUrl": "https://openclipart.org/download/150265/1310991458.svg"
   },
   {
     "productId": 10,
-    "productName": "Video Game Controller",
+    "productName": "Treehouse",
     "productCode": "GMG-0042",
-    "releaseDate": "October 15, 2015",
-    "description": "Standard two-button video game controller",
-    "price": 35.95,
+    "releaseDate": "October 15, 2017",
+    "description": "Treehouse equip with roof and rope ladder. Girls not allowed. *Tree sold separately.",
+    "price": 350.95,
     "starRating": 4.6,
-    "imageUrl": "https://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    "imageUrl": "https://openclipart.org/download/171829/Tree-Club-House.svg"
   }
 ]
